@@ -1,5 +1,11 @@
-## Hi there 👋
+<span align="center"><img src="glados_1.jpg"></span><br>
+<span align="center" style="color: rgb(241, 196, 15);">"Oh. It's you."</span>
 
+Professionally I've spent most of my career in IT, with a short stint in automotive repair. Personally I've done just about everything, collecting skills and finding new ways to use them. The end result is rarely the goal. It's the exploration that really drives me. This has led me to some significant success in applying QDM/LEAN Manufacturing methodology to improve processes both at work and at home.
+
+<img align="center" src="cat-tank.jpg" width="297" height="122">
+
+My journey slinging code began back in the day with the Commodore Vic-20, when the only option to save work was with a cassette tape. (Kids, ask your grandpa about those). These days I'm mostly playing with Python and C++  to program random projects on Raspberry Pi's and Arduinos.
 <!--
 **golemedia/golemedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
