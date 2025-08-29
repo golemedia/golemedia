@@ -1,7 +1,7 @@
 <span align="center"><img src="glados_1.jpg"></span><br>
 <span align="center" style="color: rgb(241, 196, 15);">"Oh. It's you."</span>
 
-Professionally I've spent most of my career in IT, with a short stint in automotive repair. Personally I've done just about everything, collecting skills and finding new ways to use them. The end result is rarely the goal. It's the exploration that really drives me. This has led me to some significant success in applying QDM/LEAN Manufacturing methodology to improve processes both at work and at home.
+Professionally I've spent most of my career in IT, with a short stint in automotive repair. Personally I've done just about everything, collecting skills and finding new ways to use them. The end result is rarely the goal. It's the exploration that really drives me. This has led me to some significant success in applying QDM/LEAN Manufacturing methodology to improve processes both at work and at home by combining random skills into unique solutions.
 
 <img align="center" src="cat-tank.jpg" width="297" height="122">
 
